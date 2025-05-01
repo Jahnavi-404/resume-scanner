@@ -1,1 +1,26 @@
-Looking for a Full Stack Developer with experience in Python, React, HTML, CSS, SQL, REST APIs.
+Job Title: Full Stack Developer
+
+We are looking for an experienced Full Stack Developer who is proficient in both frontend and backend technologies. The ideal candidate should have strong knowledge in building modern web applications and deep understanding of both server-side and client-side technologies.
+
+Responsibilities:
+- Develop and maintain web applications using both frontend and backend technologies.
+- Work with databases (SQL, MongoDB) and implement REST APIs.
+- Collaborate with the product team to implement features and functionality.
+- Ensure scalability and performance of applications.
+- Participate in code reviews and provide mentorship to junior developers.
+
+Skills Required:
+- Proficiency in HTML, CSS, and JavaScript.
+- Strong experience with React and Node.js.
+- Knowledge of MongoDB, MySQL, and REST API.
+- Familiarity with Docker and DevOps practices.
+- Experience with Git version control.
+- Ability to write efficient, reusable, and scalable code.
+- Strong problem-solving and debugging skills.
+- Experience with web application security best practices.
+
+Additional Skills:
+- Python for scripting and automation tasks.
+- Familiarity with Agile development methodologies.
+- Good understanding of Software Engineering principles and algorithms.
+- Experience with front-end libraries and frameworks.
