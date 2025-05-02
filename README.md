@@ -79,6 +79,3 @@ Comparison: The uploaded resume is compared with a predefined job description.
 
 Results: The app calculates the similarity, TF-IDF match, and readability scores. It also shows a list of common skills between the resume and job description and displays a word cloud of the resume text.
 
-
-
-
