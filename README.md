@@ -1,9 +1,10 @@
-AI POWERED RESUME SCANNER
+# 🤖 AI-Powered Resume Scanner
+
 
 This project is an AI-powered resume scanner that extracts text from resumes in PDF format and compares them with predefined job descriptions. The application calculates match scores using cosine similarity and TF-IDF, analyzes the readability of resumes, visualizes common skills between resumes and job descriptions, and generates word clouds from the resume text.
 
 
-FEATURES
+## 🚀 Features
 
 PDF Resume Upload: Upload resumes in PDF format.
 
@@ -20,7 +21,7 @@ Readability Score: Evaluates the readability of the resume using the Flesch Read
 Word Cloud: Visualizes the most frequent words from the resume text using a word cloud.
 
 
-TECHNOLOGIES USED
+## 📈 TECHNOLOGIES USED
 
 Python 3.12: The programming language used to build the application.
 
@@ -41,7 +42,7 @@ pandas: For organizing and displaying results in tabular form.
 re (Regular Expressions): For skill extraction and matching.
 
 
-INSTALLATION
+## ✅ INSTALLATION
 
 1. Clone the Repository
 
@@ -71,7 +72,7 @@ Skills match with predefined roles
 Word cloud visualization of the resume text
 
 
-HOW IT WORKS
+## 📊 HOW IT WORKS
 
 PDF Upload: Upload PDF files containing resumes.
 
